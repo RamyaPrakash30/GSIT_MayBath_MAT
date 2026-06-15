@@ -1,7 +1,2 @@
 I am master
 login
-payment
-
-payment
-google pay
-31c116a (gpay changs done)
